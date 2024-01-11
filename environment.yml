@@ -12,3 +12,14 @@ dependencies:
   - partd
   - bokeh
   - dask
+  - Fiona
+  - geopandas
+  - geopy
+  - networkx
+  - scipy
+  - seaborn
+  - Shapely
+  - tqdm
+  - libpysal
+  - pandarallel
+  - haversine
