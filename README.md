@@ -102,7 +102,8 @@ If you use this data/code for your work, please consider citing the paper:
 Should you have queries, feel free to send an email to subhodip [at] cs.vt.edu
 
 
-# Interact with Regal code with Binder by clicking the blue badge below
+# Interactive Code
+## Interact with the Regal code with Binder by clicking the blue badge below
 
 [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/yawwusugh/conda/main?filepath=index.ipynb)
 
